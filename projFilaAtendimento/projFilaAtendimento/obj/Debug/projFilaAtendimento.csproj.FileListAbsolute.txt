@@ -1,0 +1,9 @@
+C:\Users\CVB\Desktop\Nova pasta\projFilaAtendimento\projFilaAtendimento\bin\Debug\projFilaAtendimento.exe.config
+C:\Users\CVB\Desktop\Nova pasta\projFilaAtendimento\projFilaAtendimento\bin\Debug\projFilaAtendimento.exe
+C:\Users\CVB\Desktop\Nova pasta\projFilaAtendimento\projFilaAtendimento\bin\Debug\projFilaAtendimento.pdb
+C:\Users\CVB\Desktop\Nova pasta\projFilaAtendimento\projFilaAtendimento\obj\Debug\projFilaAtendimento.csprojAssemblyReference.cache
+C:\Users\CVB\Desktop\Nova pasta\projFilaAtendimento\projFilaAtendimento\obj\Debug\projFilaAtendimento.FormAtendimento.resources
+C:\Users\CVB\Desktop\Nova pasta\projFilaAtendimento\projFilaAtendimento\obj\Debug\projFilaAtendimento.Properties.Resources.resources
+C:\Users\CVB\Desktop\Nova pasta\projFilaAtendimento\projFilaAtendimento\obj\Debug\projFilaAtendimento.csproj.GenerateResource.cache
+C:\Users\CVB\Desktop\Nova pasta\projFilaAtendimento\projFilaAtendimento\obj\Debug\projFilaAtendimento.exe
+C:\Users\CVB\Desktop\Nova pasta\projFilaAtendimento\projFilaAtendimento\obj\Debug\projFilaAtendimento.pdb
