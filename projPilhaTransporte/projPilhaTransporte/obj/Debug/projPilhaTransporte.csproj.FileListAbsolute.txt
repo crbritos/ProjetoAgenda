@@ -1,0 +1,6 @@
+C:\Users\CVB\Desktop\repoED2-master\projPilhaTransporte\projPilhaTransporte\bin\Debug\projPilhaTransporte.exe.config
+C:\Users\CVB\Desktop\repoED2-master\projPilhaTransporte\projPilhaTransporte\bin\Debug\projPilhaTransporte.exe
+C:\Users\CVB\Desktop\repoED2-master\projPilhaTransporte\projPilhaTransporte\bin\Debug\projPilhaTransporte.pdb
+C:\Users\CVB\Desktop\repoED2-master\projPilhaTransporte\projPilhaTransporte\obj\Debug\projPilhaTransporte.csprojAssemblyReference.cache
+C:\Users\CVB\Desktop\repoED2-master\projPilhaTransporte\projPilhaTransporte\obj\Debug\projPilhaTransporte.exe
+C:\Users\CVB\Desktop\repoED2-master\projPilhaTransporte\projPilhaTransporte\obj\Debug\projPilhaTransporte.pdb
